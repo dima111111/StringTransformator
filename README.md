@@ -4,12 +4,15 @@ Description:
 ------------
 Java string parser. 
 The input is a string of the form number [string].
+
 The output is a string containing repeated substrings.
+
 This program is work until user enter string "end".
 
 Examples:
 ------------
 Input: 3[xyz]4[xy]z
+
 Output: xyzxyzxyzxyxyxyxyz
 
 Limitations:
